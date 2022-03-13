@@ -1,0 +1,13 @@
+.bord-one, .bord-two{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+.bord-one{
+    background-color: #000;
+    color:#fff;
+
+}
+.bord-two{
+    background-color: rgb(255, 239, 14);
+    color:#000;
+}
